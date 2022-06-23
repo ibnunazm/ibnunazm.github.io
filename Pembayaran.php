@@ -110,7 +110,7 @@ if (isset($_POST['simpan'])) { //untuk create
     <div class="mx-auto">
         <!-- untuk memasukkan data -->
         <br>
-        <a href="http://127.0.0.1:5500/LandingPage.html"><button class="btn btn-primary">❮ Kembali ke halaman utama</button></a>
+        <a href="https://ibnunazm.github.io/"><button class="btn btn-primary">❮ Kembali ke halaman utama</button></a>
         <?php
                 if ($error) {
                 ?>
